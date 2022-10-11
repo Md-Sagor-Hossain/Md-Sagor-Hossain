@@ -1,6 +1,7 @@
+![I am Web Developer](https://scontent.fdac157-1.fna.fbcdn.net/v/t1.6435-9/80888046_481018069220472_4328028051574095872_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=eVUEy-uzzx8AX_oGNnN&tn=l0eZlxK5yTCcf1C2&_nc_ht=scontent.fdac157-1.fna&oh=00_AT_Pq8_V1Lj9C3gHhH-nfn9eyAEabh57_TpBJF0H72OHvw&oe=636C3318)
+
 ### Hi there 👋, my name is Sagor Hossain
 #### I am Web Developer
-![I am Web Developer](https://scontent.fdac157-1.fna.fbcdn.net/v/t1.6435-9/80888046_481018069220472_4328028051574095872_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=eVUEy-uzzx8AX_oGNnN&tn=l0eZlxK5yTCcf1C2&_nc_ht=scontent.fdac157-1.fna&oh=00_AT_Pq8_V1Lj9C3gHhH-nfn9eyAEabh57_TpBJF0H72OHvw&oe=636C3318)
 
 I’m a frond End Web developer who is passionate a out making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself of doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoys working with include ReactJS, javScript as well as PHP.
 
